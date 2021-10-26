@@ -1,0 +1,14 @@
+body{
+    background-color: darkkhaki;
+    background-image: url('awan.jpg');
+}
+div{
+    background-color: darkkhaki;
+    width: 1000;
+    height: 500px;
+    background-image: url('kapalterbang.jpg');
+    background-repeat: no-repeat;
+    /* background-position: right top; */
+    background-position-x: 50px;
+    background-position-y: 50px;
+}
